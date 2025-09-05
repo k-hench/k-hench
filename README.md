@@ -1,9 +1,4 @@
-
-</br>
-
-![](img.jpg)
-
-</br>
+![](banner.jpg)
 
 ## Hi there 👋
 
