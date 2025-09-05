@@ -7,7 +7,7 @@
 - 🧑‍🔬 code for [papers](https://github.com/k-hench/hamlet_radiation), [papers](https://github.com/k-hench/elephant_seals), [papers](https://github.com/k-hench/arcgaz_genome)
 - 🤓 ramblings about [reproducibility](https://github.com/k-hench/spp1158_rep_coding) and [`bash` basics](https://github.com/k-hench/getting_stuff_done) (ooold 🙄)
 - 🙈 [hardly](https://github.com/k-hench/hypogen) maintained `R` [packages](https://github.com/k-hench/hypoimg) 
-- 🪅 a lot of bits and bobs, test-sets, demos, and long forgotton projects 👻
+- 🪅 a lot of bits and bobs, test-sets, demos, and long forgotten projects 👻
 
 <!--
 **k-hench/k-hench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
